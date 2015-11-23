@@ -11,11 +11,10 @@ The codebook.md describes the variables, the data, and any transformations or wo
 
 ---
 title: "Codebook template"
+
 author: "Gwyneth"
+
 date: "2015, 22 november"
-output:
-  html_document:
-    keep_md: yes
 ---
 
 Raw data:
