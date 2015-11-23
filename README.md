@@ -7,7 +7,7 @@ The script uses the data unzipped in the same folder without any changes to the 
 My R script run_analysis.R has the script matching the 5 steps of the assignment. 
 The codebook.md describes the variables, the data, and any transformations or work that was performed to clean up the data. 
 
-*In the end I was finally able to commit my script and codebook to my github repo. Sorry for the inconvenience.*
+**In the end I was finally able to commit my script and codebook to my github repo. Sorry for the inconvenience.**
 
 # Codebook
 
